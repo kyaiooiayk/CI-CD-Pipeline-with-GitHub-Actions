@@ -24,7 +24,7 @@
 
 ## Step #1 - Procedural pipeline
 - Procedural pipeline is here used to differentiate it from OOP pipeline.
-- The first rule while trying to create a model deployment pipeline is to always set the random seed in oder to make sure your cod e is reproducible.
+- The first rule while trying to create a model deployment pipeline is to always set the random seed in oder to make sure your code is reproducible.
 - The re-organised codes can be found [here](https://github.com/kyaiooiayk/ETL-and-ML-Pipelines-Notes/tree/main/tutorials/from_jupyter_notebook_to_ML_production_pipeline/ml_pipeline_procedural_code/notebooks/GitHub_MD_rendering) where there is a notebooks for each steps, hence the name procedural):
     - 1.0-insurance-Data_Analysis.ipynb
     - 2.0-insurance-Feature_Engineering.ipynb
