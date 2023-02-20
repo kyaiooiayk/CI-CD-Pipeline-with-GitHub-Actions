@@ -15,6 +15,8 @@ The scope of this repository is to show how one can go from creating a series of
     - **Runner** defines where to run the code. By default, github will run the code in it's own servers.
     - **Step** contains actions to run. Each job can contains multiple steps to run.
     - **Action** contains actual commands to run like installing dependencies, testing code, etc.
+ 
+![image](https://user-images.githubusercontent.com/89139139/220193508-774b645e-664d-49ee-89a8-8d83442ac879.png)
 ***
 
 ## ML Pipeline
@@ -66,6 +68,7 @@ The scope of this repository is to show how one can go from creating a series of
 
 ## References
 - [Back to the Machine Learning fundamentals: How to write Pipeline for Model deployment (Part 1/3)](https://ivannardini.medium.com/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-1-3-4b05deda1cd1)
-- [Back to the Machine Learning fundamentals: How to write Pipeline for Model deployment (Part 2/3)]()
-- [Back to the Machine Learning fundamentals: How to write Pipeline for Model deployment (Part 3/3)]()
+- [Back to the Machine Learning fundamentals: How to write Pipeline for Model deployment (Part 2/3)](https://ivannardini.medium.com/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-2-3-9632d5a43f98)
+- [Back to the Machine Learning fundamentals: How to write Pipeline for Model deployment (Part 3/3)](https://ivannardini.medium.com/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-3-3-fb85102bebb2)
+- [MLOps Basics [Week 6]: CI/CD - GitHub Actions](https://www.ravirajag.dev/blog/mlops-github-actions)
  ***
