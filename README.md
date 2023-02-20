@@ -1,4 +1,5 @@
 # From jupyter notebook to ML production pipeline
+***
 
 - Following a nice 3-series article published on Medium:
     - [Back to the Machine Learning fundamentals: How to write Pipeline for Model deployment (Part 1/3)](https://ivannardini.medium.com/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-1-3-4b05deda1cd1)
