@@ -71,4 +71,5 @@ The scope of this repository is to show how one can go from creating a series of
 - [Back to the Machine Learning fundamentals: How to write Pipeline for Model deployment (Part 2/3)](https://ivannardini.medium.com/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-2-3-9632d5a43f98)
 - [Back to the Machine Learning fundamentals: How to write Pipeline for Model deployment (Part 3/3)](https://ivannardini.medium.com/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-3-3-fb85102bebb2)
 - [MLOps Basics [Week 6]: CI/CD - GitHub Actions](https://www.ravirajag.dev/blog/mlops-github-actions)
+- [Build Reliable Machine Learning Pipelines with Continuous Integration](https://towardsdatascience.com/build-reliable-machine-learning-pipelines-with-continuous-integration-ea822eb09bf6)
  ***
