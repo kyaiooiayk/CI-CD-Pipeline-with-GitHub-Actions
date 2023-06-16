@@ -19,6 +19,12 @@ The scope of this repository is to show how one can go from creating a series of
 ![image](https://user-images.githubusercontent.com/89139139/220193508-774b645e-664d-49ee-89a8-8d83442ac879.png)
 ***
 
+## Artifacts and dependency caching
+- Artifacts and caching are similar because they provide the ability to store files on GitHub, but each feature offers different use cases and cannot be used interchangeably.
+    - **Use caching** when you want to reuse files that don't change often between jobs or workflow runs, such as build dependencies from a package management system.
+    - **Use artifacts** when you want to save files produced by a job to view after a workflow run has ended, such as built binaries or build logs.
+***
+
 ## ML Pipeline
  - A typical Machine learning pipeline for production is mainly composed of four (give or take) steps:
     - Data Gathering
@@ -60,7 +66,6 @@ The scope of this repository is to show how one can go from creating a series of
 - Create a Bash Shell Script File called `run.sh` that can be run by the GitHub action
 ***
 
-
 ## Step #5 - push the code
 - Push the code to your Github repository
 - Be aware that bulding the Docker image on GitHub action would take over 30 minutes.
@@ -72,4 +77,5 @@ The scope of this repository is to show how one can go from creating a series of
 - [Back to the Machine Learning fundamentals: How to write Pipeline for Model deployment (Part 3/3)](https://ivannardini.medium.com/back-to-the-machine-learning-fundamentals-how-to-write-code-for-model-deployment-part-3-3-fb85102bebb2)
 - [MLOps Basics [Week 6]: CI/CD - GitHub Actions](https://www.ravirajag.dev/blog/mlops-github-actions)
 - [Build Reliable Machine Learning Pipelines with Continuous Integration](https://towardsdatascience.com/build-reliable-machine-learning-pipelines-with-continuous-integration-ea822eb09bf6)
+- [Storing workflow data as artifacts](https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts)
  ***
