@@ -78,4 +78,5 @@ The scope of this repository is to show how one can go from creating a series of
 - [MLOps Basics [Week 6]: CI/CD - GitHub Actions](https://www.ravirajag.dev/blog/mlops-github-actions)
 - [Build Reliable Machine Learning Pipelines with Continuous Integration](https://towardsdatascience.com/build-reliable-machine-learning-pipelines-with-continuous-integration-ea822eb09bf6)
 - [Storing workflow data as artifacts](https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts)
+ - [About workflows](https://docs.github.com/en/actions/using-workflows/about-workflows)
  ***
