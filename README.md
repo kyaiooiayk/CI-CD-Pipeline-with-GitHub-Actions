@@ -2,6 +2,16 @@
 The scope of this repository is to show how one can go from creating a series of notebookes to creating several production pipelines with the help of GitHub Actions.
 ***
 
+## GitHub in the big picture
+Generally a good DS and most definetly a ML/MLOPS will generally follow the following steps:
+- `poetry`: sort out virtual environments for good, all your project definitions in pyproject.toml. Much better than conda and virtual env.
+- `black`: code formatte
+- `ruff`: new blazing fast linter, anything that black doesn't care about will be fixed here
+- `pytest`: test your code
+- `pre-commit-hooks`: automate all of the above and forget about them.    
+- **GitHub Actions: run these on the remote as well, just to be sure.**
+***
+
 ## GitHub Actions
 - **CI/CD** is a coding philosophy and set of practices with which you can continuously build, test, and deploy iterative code changes.
 - **CI** is about how the project should be built and tested in various runtimes, automatically and continuously. 
