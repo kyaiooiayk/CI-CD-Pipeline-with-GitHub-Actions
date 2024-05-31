@@ -88,5 +88,6 @@ Generally a good DS and most definetly a ML/MLOPS will generally follow the foll
 - [MLOps Basics [Week 6]: CI/CD - GitHub Actions](https://www.ravirajag.dev/blog/mlops-github-actions)
 - [Build Reliable Machine Learning Pipelines with Continuous Integration](https://towardsdatascience.com/build-reliable-machine-learning-pipelines-with-continuous-integration-ea822eb09bf6)
 - [Storing workflow data as artifacts](https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts)
- - [About workflows](https://docs.github.com/en/actions/using-workflows/about-workflows)
- ***
+- [About workflows](https://docs.github.com/en/actions/using-workflows/about-workflows)
+- [GitHub Actions for perfect Python Continuous Integration](https://sourcery.ai/blog/github-actions/)
+***
